@@ -15,7 +15,7 @@
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://github.com/Tennent" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/zalan-marton" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">🚀 DevOps & Full-Stack Enthusiast | 💻 Automation Lover | 🎯 Passionate Learner
+ **<h3 align="left">🚀 DevOps & Full-Stack Enthusiast | 💻 Automation Lover | 🎯 Passionate Learner\
 I'm passionate about building scalable infrastructure, automating processes, and creating seamless web experiences. Always learning and growing, I love working with cutting-edge technologies to solve real-world problems.</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
